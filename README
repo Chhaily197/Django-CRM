@@ -1,0 +1,14 @@
+#Install Mdwl o you computer
+# pip install mysql
+#pip instal mysql-connector
+#pip instal mysql-connector-python
+
+# create databsae use command py filename example mydb.py
+
+#Create admin#
+#user command 
+# py manage.py createsuperuser
+
+#admin
+#password: 12345
+#for this project 
