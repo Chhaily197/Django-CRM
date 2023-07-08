@@ -38,3 +38,47 @@ form button {
      border: none;
      cursor: pointer;
 }
+
+.container table{
+     width:100%;
+     padding:5px;
+}
+
+.container table tr th{
+     background-color: black;
+     color:white;
+     padding:8px;
+}
+.container table tr td{
+     padding:8px;
+}
+.card{
+     border: 1px solid gray;
+}
+.card-header{
+     border: 1px solid gray;
+     padding:8px;
+     width:300px;
+}
+.card-body{
+     padding:8px;
+}
+.card-text{
+     margin-bottom: 8px;
+}
+.btn, .btn-d, .btn-u {
+     color:white;
+     padding:8px 8px;
+     display: block;
+     text-decoration: none;
+     border-radius: 5px;
+}
+.btn{
+     background-color: gray;
+}
+.btn-d{
+     background-color: red;
+}
+.btn-u{
+     background-color: blue;
+}
